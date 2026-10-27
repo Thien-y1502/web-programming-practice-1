@@ -2,6 +2,8 @@
 
 Public frontend submission for the first Web Programming practice exercise.
 
+Live demo: https://thien-y1502.github.io/web-programming-practice-1/
+
 ## Requirements covered
 
 - React project created with Vite
